@@ -10,7 +10,7 @@ namespace StringFormater
     {
         static void Main(string[] args)
         {
-            Console.ForegroundColor = ConsoleColor.Green;
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.Title = "Работа со строками";
             RealTime.GetTime();
             #region Меню
