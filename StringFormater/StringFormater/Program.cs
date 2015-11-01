@@ -19,6 +19,7 @@ namespace StringFormater
             Console.WriteLine("Введите текст(Enter = конец ввода):");
             string Stemp = Console.ReadLine();
             Console.WriteLine();
+            Console.WriteLine("Добрый вечер :)");
             Console.WriteLine("Нажмите 1 для удаления повторяющихся слов.");
             Console.WriteLine("Нажмите 2 для удаления спец символов.");
             Console.WriteLine("Нажмите 3 для сортировки текста.");
