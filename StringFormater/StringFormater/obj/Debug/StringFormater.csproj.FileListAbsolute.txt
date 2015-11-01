@@ -1,0 +1,6 @@
+C:\Users\Stiks\Documents\Visual Studio 2012\Projects\StringFormater\StringFormater\bin\Debug\StringFormater.exe.config
+C:\Users\Stiks\Documents\Visual Studio 2012\Projects\StringFormater\StringFormater\bin\Debug\StringFormater.exe
+C:\Users\Stiks\Documents\Visual Studio 2012\Projects\StringFormater\StringFormater\bin\Debug\StringFormater.pdb
+C:\Users\Stiks\Documents\Visual Studio 2012\Projects\StringFormater\StringFormater\obj\Debug\StringFormater.csprojResolveAssemblyReference.cache
+C:\Users\Stiks\Documents\Visual Studio 2012\Projects\StringFormater\StringFormater\obj\Debug\StringFormater.exe
+C:\Users\Stiks\Documents\Visual Studio 2012\Projects\StringFormater\StringFormater\obj\Debug\StringFormater.pdb

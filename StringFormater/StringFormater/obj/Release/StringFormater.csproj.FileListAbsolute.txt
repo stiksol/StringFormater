@@ -1,0 +1,5 @@
+C:\Users\Stiks\Documents\Visual Studio 2012\Projects\StringFormater\StringFormater\bin\Release\StringFormater.exe.config
+C:\Users\Stiks\Documents\Visual Studio 2012\Projects\StringFormater\StringFormater\bin\Release\StringFormater.exe
+C:\Users\Stiks\Documents\Visual Studio 2012\Projects\StringFormater\StringFormater\bin\Release\StringFormater.pdb
+C:\Users\Stiks\Documents\Visual Studio 2012\Projects\StringFormater\StringFormater\obj\Release\StringFormater.exe
+C:\Users\Stiks\Documents\Visual Studio 2012\Projects\StringFormater\StringFormater\obj\Release\StringFormater.pdb
